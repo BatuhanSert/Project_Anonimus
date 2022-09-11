@@ -32,7 +32,6 @@ ones they want from the features we have specified.<br />
 name, surname, date of birth, etc. should not be used as passwords.<br />
 &emsp;The password you create can be considered strong depending on a number of features.<br />
 
-<br />
 ![Cracking Password](https://github.com/BatuhanSert/Project_Anonimus/blob/main/readme_png/vision.png)
 <br />
 
