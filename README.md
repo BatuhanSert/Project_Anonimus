@@ -17,19 +17,20 @@ A few resources to get you started if this is your first Xamarin project:
 - [Youtube: James Montemagno](https://www.youtube.com/c/JamesMontemagno)
 
 ## Vision Statement
-	The number of <b>passwords</b> that emerged with the Internet's inclusion in our lives has increased.
+
+&emsp;The number of <b>passwords</b> that emerged with the Internet's inclusion in our lives has increased.
 Passwords must be used everywhere, such as credit card passwords, pin codes, security codes,
 program passwords, e-mail account passwords, debit passwords.<br />
-	Passwords that cannot be guessed easily and are very difficult to know by trying are called
+&emsp;Passwords that cannot be guessed easily and are very difficult to know by trying are called
 <i>“strong passwords”.</i> One password should not be used for more than one account.<br />
-	Creating and remembering a strong, reliable, and easy-to-remember password is one of the
+&emsp;Creating and remembering a strong, reliable, and easy-to-remember password is one of the
 biggest challenges for many internet users.<br />
-	We want to present our users their passwords with a simple interface. It will be sufficient to
+&emsp;We want to present our users their passwords with a simple interface. It will be sufficient to
 enter the name of the website or application where they will use the password and choose the
 ones they want from the features we have specified.<br />
-	Easily guessable information such as zip code, house number, telephone number, your child's
+&emsp;Easily guessable information such as zip code, house number, telephone number, your child's
 name, surname, date of birth, etc. should not be used as passwords.<br />
-	The password you create can be considered strong depending on a number of features.<br />
+&emsp;The password you create can be considered strong depending on a number of features.<br />
 
 ## Major Features
 	<b>ANONIMUS</> mobile app t offers its users strong, hard-to-crack passwords with a simple
