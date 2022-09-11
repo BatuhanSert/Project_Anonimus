@@ -32,9 +32,13 @@ ones they want from the features we have specified.<br />
 name, surname, date of birth, etc. should not be used as passwords.<br />
 &emsp;The password you create can be considered strong depending on a number of features.<br />
 
+<br />
+![Cracking Password](https://github.com/BatuhanSert/Project_Anonimus/blob/main/readme_png/vision.png)
+<br />
+
 ## Major Features
 
-&emsp;<b>ANONIMUS</> mobile app t offers its users strong, hard-to-crack passwords with a simple
+&emsp;<b>ANONIMUS</b> mobile app t offers its users strong, hard-to-crack passwords with a simple
 interface. While doing this, it allows them to choose the features they want. For example, a
 password consisting of only numbers can be created, or a combination of numbers and letters
 can also be created. At the same time, we want to prevent any confusion that may occur with
@@ -50,3 +54,9 @@ ideal for keeping in memory. The user can choose the length of the password.<br 
 &emsp;&emsp;- Using uppercase and lowercase letters side by side.<br />
 &emsp;&emsp;- Use numbers, sequences, and special characters similar to #, %, +, -,?, @, !, *, % next <br />
 &emsp;&emsp;&nbsp;to letters.<br />
+<br />
+<br />
+
+![View](https://github.com/BatuhanSert/Project_Anonimus/blob/main/readme_png/View.png)
+![View_2](https://github.com/BatuhanSert/Project_Anonimus/blob/main/readme_png/view_2.png)
+![New Password](https://github.com/BatuhanSert/Project_Anonimus/blob/main/readme_png/New_Password.png)
